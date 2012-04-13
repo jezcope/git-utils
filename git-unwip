@@ -1,2 +1,2 @@
 #!/bin/sh
-git reset head^
+git reset "HEAD^"
